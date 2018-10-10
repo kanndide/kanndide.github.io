@@ -7,10 +7,9 @@ permalink:  react-redux_with_rails_api
 
 
 ### It's finally here.
-The final project. Just as the title suggests, it's a React-Redux frontend UI with a Ruby on Rails API backend. You shouldn't be surprised to hear that I may have tried doing something that was a bit more that was necessary for the project, but that's how you learn, right? I mean, that's how I learned to swim. You think you can trust someone, then they don't catch you. First, you panic. Then, like it was something you always knew how to do, you swim to the surface... Only to hear the voice (the one belonging to the Benadict Arnold that didn't catch you in the first place) saying, "good job! Now swim to me."
---
-Ok. That may not be the best metaphor for learning how to code or the best way to teach your 3 year old kid how to swim, but I learned two valuable lessons that day: 
---
+The final project. Just as the title suggests, it's a React-Redux frontend UI with a Ruby on Rails API backend. You shouldn't be surprised to hear that I may have tried doing something that was a bit more that was necessary for the project, but that's how you learn, right? I mean, that's how I learned to swim. You think you can trust someone, then they don't catch you. First, you panic. Then, like it was something you always knew how to do, you swim to the surface... Only to hear the voice (the one belonging to the Benadict Arnold that didn't catch you in the first place) saying, "good job! Now swim to me."  
+
+Ok. That may not be the best metaphor for learning how to code or the best way to teach your 3 year old kid how to swim, but I learned two valuable lessons that day:   
 1.) How to swim (aka how to learn under pressure).
 and
 2.) Not to trust anyone.
